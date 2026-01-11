@@ -1,0 +1,16 @@
+version: "3.8"
+
+services:
+  ai-context:
+    build: .
+    image: ai-context:local
+    ports:
+      - "8080:8080"
+    restart: unless-stopped
+    environment:
+      GOMODCACHE: "/app/.gomodcache"
+    healthcheck:
+      test: ["CMD-SHELL", "curl -f http://localhost:8080/ || exit 1"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
