@@ -1,0 +1,9 @@
+# AI Context configuration
+# Default model to use for all clients
+ai:
+  default_model: "gemini-2.5-pro"
+  enabled_models:
+    - "gemini-2.5-pro"
+    - "gemini-2.0"
+
+# Note: Update application code to read this config file and apply the model setting to clients.
