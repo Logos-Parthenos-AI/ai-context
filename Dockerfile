@@ -5,6 +5,8 @@ RUN go build -ldflags="-s -w" -o ai-context .
 
 FROM alpine:latest
 WORKDIR /app
+# Install curl for healthcheck
+RUN apk add --no-cache curl
 RUN mkdir -p /app/context
 COPY --from=builder /app/ai-context .
 EXPOSE 8080
