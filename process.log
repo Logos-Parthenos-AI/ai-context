@@ -1,0 +1,84 @@
+Default AI model: gemini-2.5-pro
+
+
+
+2026/01/11 06:21:38 INFO Creating file structure
+2026/01/11 06:21:38 INFO Gathering 77 context files
+2026/01/11 06:21:38 INFO finished "total completed"=1 "total URLs"=77
+2026/01/11 06:21:38 INFO finished "total completed"=2 "total URLs"=77
+2026/01/11 06:21:38 INFO finished "total completed"=3 "total URLs"=77
+2026/01/11 06:21:40 INFO finished "total completed"=4 "total URLs"=77
+2026/01/11 06:21:41 INFO finished "total completed"=5 "total URLs"=77
+2026/01/11 06:21:42 INFO finished "total completed"=6 "total URLs"=77
+2026/01/11 06:21:43 INFO finished "total completed"=7 "total URLs"=77
+2026/01/11 06:21:43 INFO finished "total completed"=8 "total URLs"=77
+2026/01/11 06:21:43 INFO finished "total completed"=9 "total URLs"=77
+2026/01/11 06:21:44 INFO finished "total completed"=10 "total URLs"=77
+2026/01/11 06:21:44 INFO finished "total completed"=11 "total URLs"=77
+2026/01/11 06:21:45 INFO finished "total completed"=12 "total URLs"=77
+2026/01/11 06:21:45 INFO finished "total completed"=13 "total URLs"=77
+2026/01/11 06:21:45 INFO finished "total completed"=14 "total URLs"=77
+2026/01/11 06:21:45 INFO finished "total completed"=15 "total URLs"=77
+2026/01/11 06:21:45 INFO finished "total completed"=16 "total URLs"=77
+2026/01/11 06:21:46 INFO finished "total completed"=17 "total URLs"=77
+2026/01/11 06:21:46 INFO finished "total completed"=18 "total URLs"=77
+2026/01/11 06:21:46 INFO finished "total completed"=19 "total URLs"=77
+2026/01/11 06:21:46 INFO finished "total completed"=20 "total URLs"=77
+2026/01/11 06:21:47 INFO finished "total completed"=21 "total URLs"=77
+2026/01/11 06:21:47 INFO finished "total completed"=22 "total URLs"=77
+2026/01/11 06:21:47 INFO finished "total completed"=23 "total URLs"=77
+2026/01/11 06:21:47 INFO finished "total completed"=24 "total URLs"=77
+2026/01/11 06:21:48 INFO finished "total completed"=25 "total URLs"=77
+2026/01/11 06:21:48 INFO finished "total completed"=26 "total URLs"=77
+2026/01/11 06:21:48 INFO finished "total completed"=27 "total URLs"=77
+2026/01/11 06:21:48 INFO finished "total completed"=28 "total URLs"=77
+2026/01/11 06:21:48 INFO finished "total completed"=29 "total URLs"=77
+2026/01/11 06:21:49 INFO finished "total completed"=30 "total URLs"=77
+2026/01/11 06:21:49 INFO finished "total completed"=31 "total URLs"=77
+2026/01/11 06:21:49 INFO finished "total completed"=32 "total URLs"=77
+2026/01/11 06:21:49 INFO finished "total completed"=33 "total URLs"=77
+2026/01/11 06:21:49 INFO finished "total completed"=34 "total URLs"=77
+2026/01/11 06:21:49 INFO finished "total completed"=35 "total URLs"=77
+2026/01/11 06:21:50 INFO finished "total completed"=36 "total URLs"=77
+2026/01/11 06:21:50 INFO finished "total completed"=37 "total URLs"=77
+2026/01/11 06:21:50 INFO finished "total completed"=38 "total URLs"=77
+2026/01/11 06:21:50 INFO finished "total completed"=39 "total URLs"=77
+2026/01/11 06:21:50 INFO finished "total completed"=40 "total URLs"=77
+2026/01/11 06:21:50 INFO finished "total completed"=41 "total URLs"=77
+2026/01/11 06:21:51 INFO finished "total completed"=42 "total URLs"=77
+2026/01/11 06:21:51 INFO finished "total completed"=43 "total URLs"=77
+2026/01/11 06:21:51 INFO finished "total completed"=44 "total URLs"=77
+2026/01/11 06:21:51 INFO finished "total completed"=45 "total URLs"=77
+2026/01/11 06:21:52 INFO finished "total completed"=46 "total URLs"=77
+2026/01/11 06:21:52 INFO finished "total completed"=47 "total URLs"=77
+2026/01/11 06:21:52 INFO finished "total completed"=48 "total URLs"=77
+2026/01/11 06:21:52 INFO finished "total completed"=49 "total URLs"=77
+2026/01/11 06:21:53 INFO finished "total completed"=50 "total URLs"=77
+2026/01/11 06:21:53 INFO finished "total completed"=51 "total URLs"=77
+2026/01/11 06:21:53 INFO finished "total completed"=52 "total URLs"=77
+2026/01/11 06:21:53 INFO finished "total completed"=53 "total URLs"=77
+2026/01/11 06:21:53 INFO finished "total completed"=54 "total URLs"=77
+2026/01/11 06:21:53 INFO finished "total completed"=55 "total URLs"=77
+2026/01/11 06:21:53 INFO finished "total completed"=56 "total URLs"=77
+2026/01/11 06:21:53 INFO finished "total completed"=57 "total URLs"=77
+2026/01/11 06:21:53 INFO finished "total completed"=58 "total URLs"=77
+2026/01/11 06:21:54 INFO finished "total completed"=59 "total URLs"=77
+2026/01/11 06:21:54 INFO finished "total completed"=60 "total URLs"=77
+2026/01/11 06:21:54 INFO finished "total completed"=61 "total URLs"=77
+2026/01/11 06:21:54 INFO finished "total completed"=62 "total URLs"=77
+2026/01/11 06:21:54 INFO finished "total completed"=63 "total URLs"=77
+2026/01/11 06:21:57 INFO finished "total completed"=64 "total URLs"=77
+2026/01/11 06:21:57 INFO finished "total completed"=65 "total URLs"=77
+2026/01/11 06:21:57 INFO finished "total completed"=66 "total URLs"=77
+2026/01/11 06:21:57 INFO finished "total completed"=67 "total URLs"=77
+2026/01/11 06:21:58 INFO finished "total completed"=68 "total URLs"=77
+2026/01/11 06:21:58 INFO finished "total completed"=69 "total URLs"=77
+2026/01/11 06:21:58 INFO finished "total completed"=70 "total URLs"=77
+2026/01/11 06:21:58 INFO finished "total completed"=71 "total URLs"=77
+2026/01/11 06:21:58 INFO finished "total completed"=72 "total URLs"=77
+2026/01/11 06:21:58 INFO finished "total completed"=73 "total URLs"=77
+2026/01/11 06:21:58 INFO finished "total completed"=74 "total URLs"=77
+2026/01/11 06:21:59 INFO finished "total completed"=75 "total URLs"=77
+2026/01/11 06:22:00 INFO finished "total completed"=76 "total URLs"=77
+2026/01/11 06:22:08 INFO finished "total completed"=77 "total URLs"=77
+2026/01/11 06:22:08 ERROR Completed all operations errors="failed to process https://www.businesswire.com/news/home/20201208005479/en/Tavant-Launches-Banktech-Practice-With-Existing-AIML-Technology-for-Transformative-Experiences: failed to fetch URL: failed to execute request: Get \"https://www.businesswire.com/news/home/20201208005479/en/Tavant-Launches-Banktech-Practice-With-Existing-AIML-Technology-for-Transformative-Experiences\": stream error: stream ID 1; INTERNAL_ERROR; received from peer\nfailed to process https://www.businesswire.com/news/home/20210610005594/en/Tavant-LoanBeam-Partner-to-Enhance-Digital-Mortgage-Experience-with-Automated-Income-Calculation: failed to fetch URL: failed to execute request: Get \"https://www.businesswire.com/news/home/20210610005594/en/Tavant-LoanBeam-Partner-to-Enhance-Digital-Mortgage-Experience-with-Automated-Income-Calculation\": stream error: stream ID 3; INTERNAL_ERROR; received from peer\n"
