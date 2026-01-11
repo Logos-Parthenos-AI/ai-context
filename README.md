@@ -145,3 +145,15 @@ This project takes inspiration from, uses, or references:
 - [innertube](https://github.com/tombulled/innertube): inspiration for code to get transcript from YouTube video
 - [html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown/v2): used to convert HTML to MD
 - [go-git](https://github.com/go-git/go-git/tree/main): git operations in Go
+
+## Running with Orbstack / Docker Compose
+A docker-compose.yml is included to run the service locally or inside Orbstack.
+Use the convenience scripts in the scripts/ directory:
+
+- ./scripts/start.sh — build and start the container
+- ./scripts/stop.sh — stop and remove the container
+- ./scripts/status.sh — view container status and recent logs
+
+The web UI will be available at: http://localhost:8080
+
+See docs/orbstack.md for more details.
