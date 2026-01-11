@@ -82,3 +82,19 @@ Default AI model: gemini-2.5-pro
 2026/01/11 06:22:00 INFO finished "total completed"=76 "total URLs"=77
 2026/01/11 06:22:08 INFO finished "total completed"=77 "total URLs"=77
 2026/01/11 06:22:08 ERROR Completed all operations errors="failed to process https://www.businesswire.com/news/home/20201208005479/en/Tavant-Launches-Banktech-Practice-With-Existing-AIML-Technology-for-Transformative-Experiences: failed to fetch URL: failed to execute request: Get \"https://www.businesswire.com/news/home/20201208005479/en/Tavant-Launches-Banktech-Practice-With-Existing-AIML-Technology-for-Transformative-Experiences\": stream error: stream ID 1; INTERNAL_ERROR; received from peer\nfailed to process https://www.businesswire.com/news/home/20210610005594/en/Tavant-LoanBeam-Partner-to-Enhance-Digital-Mortgage-Experience-with-Automated-Income-Calculation: failed to fetch URL: failed to execute request: Get \"https://www.businesswire.com/news/home/20210610005594/en/Tavant-LoanBeam-Partner-to-Enhance-Digital-Mortgage-Experience-with-Automated-Income-Calculation\": stream error: stream ID 3; INTERNAL_ERROR; received from peer\n"
+Default AI model: gemini-2.5-pro
+
+
+
+2026/01/11 06:27:07 INFO Creating file structure
+2026/01/11 06:27:07 INFO Gathering 9 context files
+2026/01/11 06:27:07 INFO finished "total completed"=1 "total URLs"=9
+2026/01/11 06:27:07 INFO finished "total completed"=2 "total URLs"=9
+2026/01/11 06:27:07 INFO finished "total completed"=3 "total URLs"=9
+2026/01/11 06:27:08 INFO finished "total completed"=4 "total URLs"=9
+2026/01/11 06:27:08 INFO finished "total completed"=5 "total URLs"=9
+2026/01/11 06:27:08 INFO finished "total completed"=6 "total URLs"=9
+2026/01/11 06:27:08 INFO finished "total completed"=7 "total URLs"=9
+2026/01/11 06:27:08 INFO finished "total completed"=8 "total URLs"=9
+2026/01/11 06:27:12 INFO finished "total completed"=9 "total URLs"=9
+2026/01/11 06:27:12 ERROR Completed all operations errors="failed to process https://www.businesswire.com/news/home/20201208005479/en/Tavant-Launches-Banktech-Practice-With-Existing-AIML-Technology-for-Transformative-Experiences: failed to fetch URL: failed to execute request: Get \"https://www.businesswire.com/news/home/20201208005479/en/Tavant-Launches-Banktech-Practice-With-Existing-AIML-Technology-for-Transformative-Experiences\": stream error: stream ID 1; INTERNAL_ERROR; received from peer\nfailed to process https://www.businesswire.com/news/home/20210610005594/en/Tavant-LoanBeam-Partner-to-Enhance-Digital-Mortgage-Experience-with-Automated-Income-Calculation: failed to fetch URL: failed to execute request: Get \"https://www.businesswire.com/news/home/20210610005594/en/Tavant-LoanBeam-Partner-to-Enhance-Digital-Mortgage-Experience-with-Automated-Income-Calculation\": stream error: stream ID 3; INTERNAL_ERROR; received from peer\n"
